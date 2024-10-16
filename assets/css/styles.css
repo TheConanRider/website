@@ -1,0 +1,15 @@
+body{
+  /*min-height: 200vh;*/
+
+}
+.parallax-container {
+     height: 500px;
+}
+.logo{
+  padding-left: 10px;
+}
+
+.img{
+  height: 80px;
+  width:auto;
+}
